@@ -7,11 +7,11 @@
 
 # Site settings
 title:  个没人s’home
-subtitle: 这个没人注册！
+subtitle: 每个账号都有人注册，这是个没人注册的！
 name: 个没人
 email: gemeiren@qq.com
 description: 波客！啦啦啦！
-keywords: 个没人 gemeiren 
+keywords: 个没人 gemeiren code 
 encoding: "utf-8"
 favicon: favicon.png 
 
@@ -167,19 +167,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: lzt90
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: lzt90
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 暂时无
+        client_secret: 暂时无
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: lzt90
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: 暂时无
+    clientSecret: 暂时无
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
