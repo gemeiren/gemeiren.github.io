@@ -40,19 +40,19 @@ permalink: /link
 
 ## 个人链接
 
-- [ityouknow](http://www.ityouknow.com/) - 个人独立博客
-- [github](https://github.com/ityouknow) -  我分享代码的地方
-- [微博](http://weibo.com/ityouknow) -  我的微博
-- [知乎](https://www.zhihu.com/people/ityouknow) - 个人知乎地址，用的不太多大多数都在潜水
-- [博客园](https://www.cnblogs.com/ityouknow/) - 博客园个人博客，最开始写博客的地方
-- [CSDN](http://blog.csdn.net/ityouknow)  - 最开始写博客的地方
-- [51CTO](http://blog.51cto.com/ityouknow) - 51Cto地址，虽然一直没有用过
+- [gemeiren](http://www.lzt90.ink/) - 个人独立博客
+- [github](https://github.com/gemeiren) -  我分享代码的地方
+- [微博](http://weibo.com/) -  我的微博
+- [知乎](https://www.zhihu.com) - 个人知乎地址，用的不太多大多数都在潜水
+- [博客园](https://www.cnblogs.com/) - 博客园个人博客，最开始写博客的地方
+- [CSDN](http://blog.csdn.net/)  - 最开始写博客的地方
+- [51CTO](http://blog.51cto.com/) - 51Cto地址，虽然一直没有用过
 
 ## 其它  
 
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
-- 网站名称：ityouknow  
-- 网站链接：http://www.ityouknow.com  
-- 网站描述：neo 的个人博客，分享技术，分享生活  
+- 网站名称：gemeiren  
+- 网站链接：http://www.lzt90.ink  
+- 网站描述：个人博客，分享技术，分享生活  
 
