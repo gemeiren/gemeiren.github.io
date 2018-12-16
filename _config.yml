@@ -173,13 +173,13 @@ gitment:
     owner: gemeiren
     repo: gemeiren.github.io
     oauth:
-        client_id: e9c63c37586764352114
-        client_secret: 61a563b696c059eb88b300b9a1fa4e2160e724bc
+        client_id: 874c20644a290fe99b25
+        client_secret: 218c72841243d0c11193ee24a413e3a276936de5
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: gemeiren
     repo: gemeiren.github.io
-    clientID: e9c63c37586764352114
-    clientSecret: 61a563b696c059eb88b300b9a1fa4e2160e724bc
+    clientID: 874c20644a290fe99b25
+    clientSecret: 218c72841243d0c11193ee24a413e3a276936de5
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
