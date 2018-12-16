@@ -7,7 +7,7 @@
 
 # Site settings
 title:  个没人s’home
-subtitle: 这是一个没人注册的账号！
+subtitle: 这是个没人注册的账号！
 name: 个没人
 email: gemeiren@qq.com
 description: 波客！啦啦啦！
@@ -173,8 +173,8 @@ gitment:
     owner: gemeiren
     repo: gemeiren.github.io
     oauth:
-        client_id:e9c63c37586764352114
-        client_secret:61a563b696c059eb88b300b9a1fa4e2160e724bc
+        client_id: e9c63c37586764352114
+        client_secret: 61a563b696c059eb88b300b9a1fa4e2160e724bc
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: gemeiren
