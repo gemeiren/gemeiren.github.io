@@ -11,9 +11,9 @@
 
 ## 我的微信支付号 - 测试
 
-http://www.lzt90.ink/assets/images/weixinpay.png
+http://www.lzt90.ink/assets/images/weixinpay.jpg
 
 ## 我的支付宝支付号 - 测试
 
-http://www.lzt90.ink/assets/images/alipay.png
+http://www.lzt90.ink/assets/images/alipay.jpg
 
