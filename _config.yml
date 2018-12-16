@@ -171,14 +171,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: gemeiren
-    repo: blog-comments
+    repo: gemeiren.github.io
     oauth:
         client_id: e9c63c37586764352114
         client_secret: 61a563b696c059eb88b300b9a1fa4e2160e724bc
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: gemeiren
-    repo: blog-comments
+    repo: gemeiren.github.io
     clientID: e9c63c37586764352114
     clientSecret: 61a563b696c059eb88b300b9a1fa4e2160e724bc
 # 在使用其它评论组件时可点击显示 Disqus
