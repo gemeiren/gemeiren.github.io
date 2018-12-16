@@ -173,8 +173,8 @@ gitment:
     owner: gemeiren
     repo: gemeiren.github.io
     oauth:
-        client_id: e9c63c37586764352114
-        client_secret: 61a563b696c059eb88b300b9a1fa4e2160e724bc
+        client_id:e9c63c37586764352114
+        client_secret:61a563b696c059eb88b300b9a1fa4e2160e724bc
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: gemeiren
