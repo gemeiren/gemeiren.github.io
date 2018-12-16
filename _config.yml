@@ -167,17 +167,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: lzt90
+    username: gemeiren
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: lzt90
+    owner: gemeiren
     repo: blog-comments
     oauth:
         client_id: e9c63c37586764352114
         client_secret: 61a563b696c059eb88b300b9a1fa4e2160e724bc
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: lzt90
+    owner: gemeiren
     repo: blog-comments
     clientID: e9c63c37586764352114
     clientSecret: 61a563b696c059eb88b300b9a1fa4e2160e724bc
