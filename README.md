@@ -9,6 +9,11 @@
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
 
 
-## 我的微信公众号
+## 我的微信支付号 - 测试
 
-暂时无
+http://www.lzt90.ink/assets/images/weixinpay.png
+
+## 我的支付宝支付号 - 测试
+
+http://www.lzt90.ink/assets/images/alipay.png
+
